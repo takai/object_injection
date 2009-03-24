@@ -16,7 +16,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = 'object_injection'
-  spec.version = '0.1.0'
+  spec.version = '0.1.1'
 
   spec.authors = ['Naoto Takai']
   spec.date = '2009-03-24'
